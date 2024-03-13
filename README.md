@@ -10,7 +10,12 @@ Set an execution policy to allow PowerShell script execution:<br>
 * These customer specific variables in the script needs to be set manually.<br>
 ![image](https://github.com/LeifKlemetsen-eaton/AutomaticWipeScript/assets/115617622/2c1f841e-d99b-46ba-9d99-6b10f3b3f9e0)
 # Task Scheduler
-Create Basic Task:<br>
+* Create Basic Task:<br>
+* Edit Action:<br>
+* Program script: The PowerShell it self.<br>
+* Argument: The the location and the file "StartWiperOnCameras.ps1".<br>
+![image](https://github.com/LeifKlemetsen-eaton/AutomaticWipeScript/assets/115617622/df90eb2d-f75f-4bc0-8da7-2b984f89c0db)
+
 # Logging of the REST-API cmds
 In HERNIS Watchdog Control:<br>
 * Stop REST Module
