@@ -7,13 +7,13 @@ Set an execution policy to allow PowerShell script execution:<br>
 # Installation
 * Make a new folder.<br>
 * Copy "StartWiperOnCameras.ps1" to the new folder.
-* These customer specific variables needs to be set.
-$camerasWithWiper = 30, 39, 47      # Comma seperated list of cameras to wipe<br>
-$mstrRestHost     = "Servername"    # Server name or IP address with REST API<br>
-$mstrUserName     = ""              # Username<br>
-$mstrPassword     = ""              # Password<br>
-$tcp              = "444"           # Port for REST API<br>
-$mstrRestProtocol = "HTTPS"         # Secure: HTTPS or unsecure: HTTP<br>
+* These customer specific variables in the script needs to be set manually.
+\* $camerasWithWiper = 30, 39, 47      # Comma seperated list of cameras to wipe<br>
+\* $mstrRestHost     = "Servername"    # Server name or IP address with REST API<br>
+\* $mstrUserName     = ""              # Username<br>
+\* $mstrPassword     = ""              # Password<br>
+\* $tcp              = "444"           # Port for REST API<br>
+\* $mstrRestProtocol = "HTTPS"         # Secure: HTTPS or unsecure: HTTP<br>
 # Task Scheduler
 Create Basic Task:<br>
 # Logging of the REST-API cmds
