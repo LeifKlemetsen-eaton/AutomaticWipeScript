@@ -15,7 +15,7 @@ $mstrPassword     = ""              # Password<br>
 $tcp              = "444"           # Port for REST API<br>
 $mstrRestProtocol = "HTTPS"         # Secure: HTTPS or unsecure: HTTP<br>
 # Task Scheduler
-Create Basic Task.
+Create Basic Task:<br>
 # Logging of the REST-API cmds
 In HERNIS Watchdog Control:<br>
 *Stop REST Module
@@ -23,5 +23,5 @@ In HERNIS Watchdog Control:<br>
 *Start REST Module
 REST-API request are stored here:<br>
 *C:\HERNIS\Logs\RESTModule
-# Example on manual script execution
+# Example on a manual script execution
 ![image](https://github.com/LeifKlemetsen-eaton/AutomaticWipeScript/assets/115617622/4e44f05e-877f-4f72-902e-e949d43b7f56)
