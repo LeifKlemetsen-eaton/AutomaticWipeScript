@@ -7,7 +7,7 @@ Set an execution policy to allow PowerShell script execution:<br>
 # Installation
 * Make a new folder.<br>
 * Copy "StartWiperOnCameras.ps1" to the new folder.
-* These customer specific variables in the script needs to be set manually.
+* These customer specific variables in the script needs to be set manually.<br>
 \* $camerasWithWiper = 30, 39, 47      # Comma seperated list of cameras to wipe<br>
 \* $mstrRestHost     = "Servername"    # Server name or IP address with REST API<br>
 \* $mstrUserName     = ""              # Username<br>
