@@ -18,7 +18,7 @@ Edit Action:<br>
 Edit Trigger:<br>
 * Example where the script is running daily at a specific time.
 ![image](https://github.com/LeifKlemetsen-eaton/AutomaticWipeScript/assets/115617622/89e45fca-bb00-43af-9d44-f3baf39a33e9)
-# Logging of the REST-API cmds
+# Logging of the REST-API requests
 In HERNIS Watchdog Control:<br>
 * Stop REST Module
 * Enable logging of all requests
