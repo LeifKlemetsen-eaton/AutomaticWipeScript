@@ -15,7 +15,8 @@ Create Basic Task:<br>
 In HERNIS Watchdog Control:<br>
 * Stop REST Module
 * Enable logging of all requests
-* Start REST Module<br>
+* Start REST Module
+
 REST-API request are stored here:
 * C:\HERNIS\Logs\RESTModule
 # Example on a manual script execution
