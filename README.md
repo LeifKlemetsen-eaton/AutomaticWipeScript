@@ -13,10 +13,10 @@ Set an execution policy to allow PowerShell script execution:<br>
 Create Basic Task:<br>
 # Logging of the REST-API cmds
 In HERNIS Watchdog Control:<br>
-*Stop REST Module
-*Enable logging of all requests
-*Start REST Module
+* Stop REST Module
+* Enable logging of all requests
+* Start REST Module
 REST-API request are stored here:<br>
-*C:\HERNIS\Logs\RESTModule
+* C:\HERNIS\Logs\RESTModule
 # Example on a manual script execution
 ![image](https://github.com/LeifKlemetsen-eaton/AutomaticWipeScript/assets/115617622/4e44f05e-877f-4f72-902e-e949d43b7f56)
