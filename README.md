@@ -16,7 +16,7 @@ In HERNIS Watchdog Control:<br>
 * Stop REST Module
 * Enable logging of all requests
 * Start REST Module<br>
-REST-API request are stored here:<br>
+REST-API request are stored here:
 * C:\HERNIS\Logs\RESTModule
 # Example on a manual script execution
 ![image](https://github.com/LeifKlemetsen-eaton/AutomaticWipeScript/assets/115617622/4e44f05e-877f-4f72-902e-e949d43b7f56)
