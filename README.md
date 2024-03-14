@@ -27,7 +27,7 @@ Use the default settings except for the 2 examples below.<br>
 ## Logging of the REST-API requests
 In HERNIS Watchdog Control:<br>
 * Stop REST Module
-* Enable logging of all requests
+* Right click on REST Module. Select Advanced -> Enable logging of all requests
 * Start REST Module
 
 REST-API request are stored here:
