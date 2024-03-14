@@ -1,6 +1,6 @@
 # AutomaticWipeScript
 PowerShell script uses REST-API to send camera wipe cmds to HERNIS FLEX system.
-## Policy
+## Policy for PowerShell script
 Set an execution policy to allow PowerShell script execution:<br>
 * Open "Windows PowerShell" as administrator<br>
 * Example on policy: Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
