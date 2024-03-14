@@ -19,7 +19,7 @@ Set an execution policy to allow PowerShell script execution:<br>
 Create Basic Task:<br>
 Edit Action:<br>
 * Program script: The PowerShell it self.<br>
-* Argument: The the location and the file "StartWiperOnCameras.ps1".<br>
+* Argument: The location and the file "StartWiperOnCameras.ps1".<br>
 ![image](https://github.com/LeifKlemetsen-eaton/AutomaticWipeScript/assets/115617622/df90eb2d-f75f-4bc0-8da7-2b984f89c0db)
 Edit Trigger:<br>
 * Example where the script is running daily at a specific time.
