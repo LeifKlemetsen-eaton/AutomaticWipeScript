@@ -14,16 +14,15 @@ Set an execution policy to allow PowerShell script execution:<br>
 * From REST-API server copy this certificate "C:\HERNIS\Configuration\RESTModule\RESTModuleSSLCertificate.cer" to the REST client.<br>
 * On the REST client open "Manage user certificates" and from "Trusted Root Certification Authorities/Certificates" import the certificate.
 ![image](https://github.com/LeifKlemetsen-eaton/AutomaticWipeScript/assets/115617622/221d92a2-4c5e-451c-a396-7d80cbf7379f)
-
 ## Task Scheduler
 Create Basic Task:<br>
-Edit Action:<br>
-* Program script: The PowerShell it self.<br>
-* Argument: The location and the file "StartWiperOnCameras.ps1".<br>
-![image](https://github.com/LeifKlemetsen-eaton/AutomaticWipeScript/assets/115617622/df90eb2d-f75f-4bc0-8da7-2b984f89c0db)
-Edit Trigger:<br>
-* Example where the script is running daily at a specific time.
-![image](https://github.com/LeifKlemetsen-eaton/AutomaticWipeScript/assets/115617622/89e45fca-bb00-43af-9d44-f3baf39a33e9)
+Follow the "Create Basic Task Wizard":<br>
+* Chose a trigger.<br>
+![image](https://github.com/LeifKlemetsen-eaton/AutomaticWipeScript/assets/115617622/b969060d-e1a3-47ba-a9fc-3fa81f0cf1c8)
+* Start a Program
+*\ Program/script: The PowerShell it self.<br>
+*\ Argument: The location and the file "StartWiperOnCameras.ps1".<br>
+![image](https://github.com/LeifKlemetsen-eaton/AutomaticWipeScript/assets/115617622/be38ef81-bf89-4361-a536-89299752cfff)
 ## Logging of the REST-API requests
 In HERNIS Watchdog Control:<br>
 * Stop REST Module
