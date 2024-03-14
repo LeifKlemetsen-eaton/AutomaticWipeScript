@@ -20,8 +20,8 @@ Follow the "Create Basic Task Wizard":<br>
 * Chose a trigger.<br>
 ![image](https://github.com/LeifKlemetsen-eaton/AutomaticWipeScript/assets/115617622/b969060d-e1a3-47ba-a9fc-3fa81f0cf1c8)
 * Start a Program<br>
-*\ Program/script: The PowerShell it self.<br>
-*\ Argument: The location and the file "StartWiperOnCameras.ps1".<br>
+  * Program/script: The PowerShell it self.<br>
+  * Argument: The location and the file "StartWiperOnCameras.ps1".<br>
 ![image](https://github.com/LeifKlemetsen-eaton/AutomaticWipeScript/assets/115617622/be38ef81-bf89-4361-a536-89299752cfff)
 ## Logging of the REST-API requests
 In HERNIS Watchdog Control:<br>
