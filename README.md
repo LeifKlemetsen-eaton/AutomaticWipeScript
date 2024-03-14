@@ -10,8 +10,8 @@ Set an execution policy to allow PowerShell script execution:<br>
 * These customer specific variables in the script needs to be set manually.<br>
 ![image](https://github.com/LeifKlemetsen-eaton/AutomaticWipeScript/assets/115617622/2c1f841e-d99b-46ba-9d99-6b10f3b3f9e0)
 # Certification is required for HTTPS
-From REST-API server copy this certificate "C:\HERNIS\Configuration\RESTModule\RESTModuleSSLCertificate.cer" to the REST client.<br>
-On the REST client open "Manage user certificates" and from "Trusted Root Certification Authorities/Certificates" import the certificate.
+* From REST-API server copy this certificate "C:\HERNIS\Configuration\RESTModule\RESTModuleSSLCertificate.cer" to the REST client.<br>
+* On the REST client open "Manage user certificates" and from "Trusted Root Certification Authorities/Certificates" import the certificate.
 ![image](https://github.com/LeifKlemetsen-eaton/AutomaticWipeScript/assets/115617622/221d92a2-4c5e-451c-a396-7d80cbf7379f)
 
 # Task Scheduler
