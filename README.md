@@ -17,7 +17,7 @@ Set an execution policy to allow PowerShell script execution:<br>
 ## Task Scheduler
 Create Basic Task:<br>
 Follow the "Create Basic Task Wizard":<br>
-Use the default settings except for the 2 examples bellow.<br>
+Use the default settings except for the 2 examples below.<br>
 * Chose a trigger.<br>
 ![image](https://github.com/LeifKlemetsen-eaton/AutomaticWipeScript/assets/115617622/b969060d-e1a3-47ba-a9fc-3fa81f0cf1c8)
 * Start a Program<br>
