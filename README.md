@@ -8,6 +8,7 @@ Set an execution policy to allow PowerShell script execution:<br>
 * Make a new folder.<br>
 * Copy "StartWiperOnCameras.ps1" to the new folder.
 * These customer specific variables in the script needs to be set manually.<br>
+* For HTTPS: The servername should be equal to the the issuer of the certificate.<br>
 ![image](https://github.com/LeifKlemetsen-eaton/AutomaticWipeScript/assets/115617622/2c1f841e-d99b-46ba-9d99-6b10f3b3f9e0)
 ## Certification is required for HTTPS
 * From REST-API server copy this certificate "C:\HERNIS\Configuration\RESTModule\RESTModuleSSLCertificate.cer" to the REST client.<br>
